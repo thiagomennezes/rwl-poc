@@ -1,1 +1,1 @@
-# rwl-activity
+# RWL: Proof of Concept
